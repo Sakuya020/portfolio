@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Joyce Shi</title>
+    <link rel="stylesheet" href="base.css" />
+    <link rel="stylesheet" href="index.css" />
+    <link
+      rel="stylesheet"
+      href="index_m.css"
+      media="screen and (max-width:450px)"
+    />
+  </head>
+
+  <body>
+    <div class="menu">
+      <h4 class="top bTitle"><a href="./intro.html">JOYCE SHI</a></h4>
+      <div class="category">
+        <h4 class="bTitle">
+          <a href="digital.html">DIGITAL INTERFACE</a>
+        </h4>
+        <h4 class="bTitle">
+          <a href="printed.html">PRINTED MATTERS</a>
+        </h4>
+        <h4 class="bTitle">
+          <a href="pmill.html">ILLUSTRATION & PRINTMAKING</a>
+        </h4>
+      </div>
+    </div>
+
+    <div class="gallery">
+      <div class="gallery_flex">
+        <div class="item">
+          <a href="buta.html">
+            <img
+              src="https://cdn.glitch.com/9c3025cb-1afc-47ff-b846-ec42eaf70c86%2Fbuta.png?v=1572048268375"
+            />
+          </a>
+        </div>
+
+        <div class="item">
+          <a href="psynos.html">
+            <img
+              src="https://cdn.glitch.com/9c3025cb-1afc-47ff-b846-ec42eaf70c86%2Fpsy_nos.png?v=1572048305628"
+          /></a>
+        </div>
+        <div class="item">
+          <a href="sur.html">
+            <img
+              src="https://cdn.glitch.com/9c3025cb-1afc-47ff-b846-ec42eaf70c86%2Fsurface.gif?v=1572058595099"
+          /></a>
+        </div>
+        <div class="item">
+          <a href="topo.html">
+            <img
+              src="https://cdn.glitch.com/9c3025cb-1afc-47ff-b846-ec42eaf70c86%2Ftopography.png?v=1572048314178"
+          /></a>
+        </div>
+        <div class="item">
+          <a href="GA.html">
+            <img
+              src="https://cdn.glitch.com/00e39e19-4bab-4dfc-81dc-21e6d212a6ab%2FGA2.png?v=1572318544127"
+          /></a>
+        </div>
+
+        <div class="item">
+          <a href="decadenceweb.html">
+            <img
+              src="https://cdn.glitch.com/9c3025cb-1afc-47ff-b846-ec42eaf70c86%2Fdecadence.gif?v=1572056793466"
+          /></a>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="Jq.min.js"></script>
+  <script src="common.js"></script>
+</html>
+
